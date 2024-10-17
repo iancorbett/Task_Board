@@ -1,15 +1,19 @@
 # Task_Board
 
-Description
+Description:
+
 In this project I have created a functional task board that can be used to keep track of tasks and keep track of whether or not they are still to be done, in progress, or have already been completed. For this project, I received starter code that included most of the HTML and CSS that styles the elements that you see on the page. The main thing that I had to do was create the code that renders the task cards on the page for users to see, as well as creating various functionalities that improve the user experience. I created the functionality that allows the cards to be dragged as well as the functionality that allows the cards to be dropped in any of the three columns. I also created the functionality that changes the color of the card, depending on what column it is in. Additionally, I created the pop up that prompt the users to input their title. The date, as well as the description of the task. This pop up is shown upon hitting the add task button on the homepage. When a user completes all of the fields and clicks enter, their new task card is generated and is automatically put into the to do column.
 
-Installation instructions: This is a deployed application so you will not need to install any node packages in order to run this application. You simply need to click the link to visit the deployed repo and it will take you to the site where you can use the app. Click add task to generate popup, fill out the form and click enter, then move the card to the desired column.
+Installation instructions: 
+
+This is a deployed application so you will not need to install any node packages in order to run this application. You simply need to click the link to visit the deployed repo and it will take you to the site where you can use the app. Click add task to generate popup, fill out the form and click enter, then move the card to the desired column.
 
 Local use instructions:
 
 If you would like to run this app locally, clone the repo into your own VS code and open the index HTML file in the live server. No additional packages are needed.
 
-Contribution guidelines
+Contribution guidelines:
+
 In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
 Screenshots:
