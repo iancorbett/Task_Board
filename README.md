@@ -26,6 +26,10 @@ Sources:
 
 While completing this project I received starter code and that code is included in this project repo most of the HTML and CSS comes from that starter code. Although my project is not contain any other code taken directly from another repo, I did receive help from a few tutors, Charles, and Joem. I was able to create the functionality for the pop-up without too much difficulty was also able to render a card in the to do column without any additional assistance however, I was not able to figure out how to move one card to another column, and this is where the tutors help me, they were able to show me what I was doing wrong and why the code that I had was not working I had tried downloading certain packages to gain the draggable functionality, but was showed by the tutors that it was not actually necessary and that there were other ways to accomplish this without the packages Additionally, I could set the color for the note card if it were in the to do column, but much like the draggable function I had difficulties, figuring out how to make it change colors, depending on what column it was in there were able to demonstrate this for me and show me the code necessary to make this function correctly, I was able to find a way to remove the cards from the display when they delete button is clicked over all the certain parts of this challenge that did not present much difficulty and certain parts that prove to be quite a challenge. Thankfully with the assistance of tutors I was able to make the function correctly.
 
+Link to deployed application: 
+
+https://iancorbett.github.io/Task_Board/
+
 License:
 
 MIT License
