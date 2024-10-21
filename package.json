@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "dayjs": "^1.11.13"
+    "vuedraggable": "^2.24.3"
   }
 }
