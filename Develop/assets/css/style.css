@@ -1,0 +1,48 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+
+
+.theModal {
+  justify-content:center ;
+  width: 300px;
+}
+
+.blog-cards {
+  border: 3px solid black;
+  margin-bottom: 8px;
+  padding-left: 5px;
+  color: Black;
+  width: auto;
+}
+
+.todoCards {
+  background-color: rgb(211, 216, 221);
+  border: 3px solid black;
+}
+
+.inProgressCards {
+  background-color: rgb(105, 235, 5);
+  border: 3px solid violet;
+}
+
+.doneCards {
+  background-color: rgb(243, 46, 46);
+  border: 3px solid gold;
+}
