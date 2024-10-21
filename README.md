@@ -2,6 +2,7 @@
 
 
 Description: 
+
 In this project I have created a functional task board that can be used to keep track of tasks and keep track of whether or not they are still to be done, are in progress, or have already been completed. For this project I received starter code that included most of the HTML and CSS that styles the elements that you see on the page. the main thing that I had to do was create code that would render the task cards on the page for users to see and create various functionalities that improve the user experience. I created the functionality that allows the cards to be dragged as well as the functionality that allows the cards to be dropped in any of the three columns. I also created the functionality that changes the color of the card, depending on what column it is in. Additionally, I created the pop up that prompt the users to input their title. The date, as well as the description of the task. This pop is shown upon hitting the ad task button on the homepage. When a user completes all of the fields and clicks enter, their new task, card is generated and is automatically put into the to do column.
 
 Installation instructions: 
